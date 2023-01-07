@@ -1,0 +1,17 @@
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/service/MessageService.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/service/MessageServiceImpl.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/server/MultiServer.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/models/Message.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/service/RoomsService.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/json/JSONConverter.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/RoomRepository.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/service/UserServiceImpl.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/SocketServer.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/server/ClientServer.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/service/UsersService.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/json/JSONMessage.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/models/User.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/models/Chatroom.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/service/RoomsServiceImpl.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/MessageRepository.java
+/Users/zhenya/Documents/GitHub/chat/src/ex02/Chat/SocketServer/src/main/java/edu/school21/sockets/repositories/UserRepository.java

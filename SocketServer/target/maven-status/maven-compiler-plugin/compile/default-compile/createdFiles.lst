@@ -1,0 +1,17 @@
+edu/school21/sockets/service/MessageServiceImpl.class
+edu/school21/sockets/models/Message.class
+edu/school21/sockets/models/Chatroom.class
+edu/school21/sockets/repositories/MessageRepository.class
+edu/school21/sockets/json/JSONConverter.class
+edu/school21/sockets/service/RoomsService.class
+edu/school21/sockets/server/MultiServer.class
+edu/school21/sockets/server/ClientServer.class
+edu/school21/sockets/service/RoomsServiceImpl.class
+edu/school21/sockets/service/UsersService.class
+edu/school21/sockets/repositories/UserRepository.class
+edu/school21/sockets/repositories/RoomRepository.class
+edu/school21/sockets/json/JSONMessage.class
+edu/school21/sockets/service/MessageService.class
+edu/school21/sockets/service/UserServiceImpl.class
+edu/school21/sockets/models/User.class
+edu/school21/sockets/SocketServer.class
