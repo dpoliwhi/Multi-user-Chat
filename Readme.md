@@ -47,7 +47,7 @@ ____
 
 ### Message history
 <p align="center">
-<img src="materials/img4.png" alt="drawing" width="250"/>
+<img src="materials/img4.png" alt="drawing" width="300"/>
 </p>
 
 If user was in current chatroom and chatted with friends already, after sign in he get *the latest 30 messages* from this chat <br>
